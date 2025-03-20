@@ -7,7 +7,7 @@
 
 <h2>🔍 About me</h2>
 
-- Soy un estudiante dedicado a la tecnología actualmente estudiando en la Escual Superior de Informátiica UCLM 🎓
+- Soy un estudiante dedicado a la tecnología actualmente estudiando en la Escuela Superior de Informátiica ESI - UCLM 🎓
 
 - Para conectarte conmigo directamente y discutir colaboraciones, ideas o cualquier otra inquietud, mi perfil personal es [LinkedIn](https://www.linkedin.com/in/abrahamescalona/). Estoy abierto a nuevas oportunidades, proyectos conjuntos y, por supuesto, a aprender de la vasta comunidad de GitHub.
   
